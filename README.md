@@ -20,7 +20,7 @@ Ensure you have **Python 3.x** installed along with the required libraries:
 pip install numpy pandas scikit-learn joblib jupyter
 
 Clone the Repository
-git clone https://github.com/your-username/language-classifier.git  
+git clone https://github.com/KeertiSharma1/language-classifier.git  
 cd language-classifier 
 ```
 ## Run the Jupyter Notebook
@@ -75,5 +75,5 @@ Contributions are welcome! You can:
 
 - Optimize the dataset.
 
-##License
+## License
 This project is licensed under the MIT License.
